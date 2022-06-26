@@ -13,7 +13,7 @@
 ### Как помогать
 
 Проект работает на [Django 1.11.1](https://www.djangoproject.com). 
-Сейчас очень нужна помощь с моделированием системы, почитать о котором можно [здесь](https://docs.djangoproject.com/en/4.0/intro/tutorial02/#craeting-models).
+Сейчас очень нужна помощь с моделированием системы, почитать о котором можно [здесь](https://docs.djangoproject.com/en/4.0/intro/tutorial02/#:~:text=in%20INSTALLED_APPS.-,Creating%20models%C2%B6,-Now%20we%E2%80%99ll%20define).
 
 ### Как запускать
 Создайте файл local.py в папке vshaurme/settings/ и положите туда переменную `SECRET_KEY` с любым содержимым.
